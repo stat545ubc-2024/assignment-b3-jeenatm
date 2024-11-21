@@ -1,0 +1,12 @@
+name: medication_cost
+title: Medication_cost
+username: jeenatm
+account: jeenatm
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 13410139
+bundleId: 9396226
+url: https://jeenatm.shinyapps.io/medication_cost/
+version: 1
+asMultiple: FALSE
+asStatic: FALSE
