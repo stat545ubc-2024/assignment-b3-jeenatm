@@ -16,7 +16,7 @@ The plot shows trends for selected cost types over the chosen year range. It is 
 ### 2 **Customizable Year Range**
 Year range can be adjusted with a slider, allowing user to view data for specific year they want to see.
 
-###3 **Select Box for Cost Type**
+### 3 **Select Box for Cost Type**
 The app includes a **Select Box** where users can choose the type of cost they want to analyze (e.g., OOP, prescription costs) and focus on a specific cost category.
 
 ### 4 **Data Table**
@@ -34,7 +34,7 @@ The application uses the dataset `medication_data.csv` with the following key at
 The dataset used in this application is a **transformed version** of an original data due to confidentiality concerns and is intended solely for analysis and demonstration purposes in [STAT545B course Assignment B3](https://stat545.stat.ubc.ca/assignments/assignment-b3/).
 
 
-This version of the data is saved in [Medication_cost](link_to_data_source). 
+This version of the data is saved in [Medication_cost](https://github.com/stat545ubc-2024/assignment-b3-jeenatm/tree/main/Medication_cost). 
 
 
 The app is hosted on [shinyapps.io](https://www.shinyapps.io/)
